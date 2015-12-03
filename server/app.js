@@ -1,6 +1,7 @@
 (function() {
     'use strict';
 
+// Just adding a comment
     var express = require('express');
     var path = require('path');
     var logger = require('morgan');
