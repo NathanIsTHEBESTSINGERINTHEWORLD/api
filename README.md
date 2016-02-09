@@ -1,5 +1,4 @@
 # Runnable Multi Tier Demo - Backend
 
 
-Test4
-asdf
+Add MONGO_HOST env to point to local mongodb host
